@@ -1,1 +1,1 @@
-# Twitter-Stream-Kafka
+# Streaming Real-time Twitter feeds using Apache Kafka
