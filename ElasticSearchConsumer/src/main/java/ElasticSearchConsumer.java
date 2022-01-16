@@ -33,9 +33,9 @@ public class ElasticSearchConsumer {
     // connecting to bonsai.io elasticSearch
     public static RestHighLevelClient createClient(){
 
-        String hostname = "kafka-course-5386940767.us-east-1.bonsaisearch.net";
-        String username = "w5m1olulyc";
-        String password = "5jy68jszld";
+        String hostname = "";
+        String username = "";
+        String password = "";
 
         // bonsai.io ElasticSearch
         // credentials provider help supply username and password
